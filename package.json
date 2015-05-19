@@ -1,0 +1,32 @@
+{
+  "name": "national-rail-stations",
+  "version": "0.1.0",
+  "description": "National Rail station code lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpullinger/national-rail-stations.git"
+  },
+  "keywords": [
+    "National",
+    "Rail",
+    "Station",
+    "Code",
+    "UK",
+    "Trains",
+    "Rail",
+    "Stations"
+  ],
+  "author": "Richard Pullinger <r_pullinger@hotmail.com> (http://pullin.gr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpullinger/national-rail-stations/issues"
+  },
+  "homepage": "https://github.com/rpullinger/national-rail-stations",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
